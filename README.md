@@ -49,7 +49,7 @@ using an API is just like using a website in your browser but started clicking b
  
  
  
-# Linxu
+# Linux
 
 # Kernal
 
