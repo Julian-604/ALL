@@ -65,7 +65,7 @@ Time-sharing operating systems schedule tasks for efficient use of the system an
 For hardware functions such as input and output and memory allocation, the operating system acts as an intermediary between programs and the computer hardware,[1][2] although the application code is usually executed directly by the hardware and frequently makes system calls to an OS function or is interrupted by it. Operating systems are found on many devices that contain a computer – from cellular phones and video game consoles to web servers and supercomputers.
 
 
-#### BASH
+#### Bash
 
 command language interpreter for interacting with a computer from the command line it suroundes the operating system kernal
 
