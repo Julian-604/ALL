@@ -2,9 +2,71 @@
 
 A computer network is a set of computers sharing resources located on or provided by network nodes. The computers use common communication protocols over digital interconnections to communicate with each other. These interconnections are made up of telecommunication network technologies, based on physically wired, optical, and wireless radio-frequency methods that may be arranged in a variety of network topologies.
 
-#### OSI
+#### OSI Model
 
 The Open Systems Interconnection model (OSI model) is a conceptual model that characterises and standardises the communication functions of a telecommunication or computing system without regard to its underlying internal structure and technology.
+
+OSI Model consists of
+
+#### Application 
+
+This layer is closest to the end user
+Interacts with software applications, for example web browser(Brave, Firefox, Chrome, etc)
+HTTP and HTTPS are layer 7 protocols
+https://www.silkroad.com
+
+Functions of Layer 7 include:
+
+identifying communication partners
+Synchronizing communication
+
+#### Presentation
+
+Data in the application layer is in application format
+it needs to be translated to a different format to be sent over the network
+
+the presentation layer's jon is to translate between application and network formats
+
+for instance encryption of data as it is sent, and decryption of data as it is received
+
+Also translates between different applcation layer formats
+
+#### Session 
+
+Controls dialogues(sessions) between commanicating hosts
+
+Establishes, manages, and terminates connections between the local application (for instance, web browser) and the remote applcation (for instance youtube, isro) 
+
+#### Transport
+
+Segments and reassembles data form communcations beteen and hosts
+
+Breaks large pieces of data into smallar segments which can be more easily sent over the network and are less likely to cause transmission problems if error occure 
+
+privide host-to-host communication
+
+#### Network 
+
+Provides connectivity between end hosts on different networks (ie outside of the LAN)
+
+Provides logical addressing (IP addresses)
+
+Provides path selection between source and destination
+
+Routers operate at layer 3
+
+#### Data Link 
+
+Provides node to node connectivity and data transfer (for instance  PC to switch, switch to router, router to router)
+
+Defines how data is formatted for transmission over a physical medium (for instance copper UTP cables)
+
+Detects and(posssiby) cirrects Physical Layer error
+
+Users Layer 2 addressing Separate form Layer 3 addressing
+
+#### Physical
+
 
 #### TCP/IP Suite
 
@@ -17,7 +79,9 @@ A server is device that provices function and service to the end users
 
 #### Client
 
-Customer or client, a recipient of goods or services in return for monetary or other valuable considerations.
+A device that accesss a service mode available by server
+
+NOTE: A same device can be a client in some situations, and a server in other situations
 
 #### Subnet
 
@@ -25,15 +89,25 @@ A subnetwork or subnet is a logical subdivision of an IP network. The practice o
 
 #### Router
 
-A router is a networking device that forwards data packets between computer networks. Routers perform the traffic directing functions on the Internet. Data sent through the internet, such as a web page or email, is in the form of data packets.
+have fewer network interfaces then switch
+are used to provide connectivity between LANS
+are therefore used to send data over the internet
 
 #### Switch
 
-A network switch (also called switching hub, bridging hub, and, by the IEEE, MAC bridge) is networking hardware that connects devices on a computer network by using packet switching to receive and forward data to the destination device.
+have many network interfaces/ports for end hosts to connect to (usually 24+)
+provide connectivity to hosts within thwe same LAN 
+do not provide connectivity between LANs/over the internet
 
 #### Firewall
 
-In computing, a firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules. A firewall typically establishes a barrier between a trusted network and an untrusted network, such as the Internet.
+monitor and control network traffic based on configured rules
+can be placed inside the network or outsite the network
+are known as Next-Generation Firewalls when they include more modern and advanced filtering capabilites
+
+#### Ethernet
+
+Ethernet is a collection fo network protocols/standards
 
 #### Lan
 
