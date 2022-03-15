@@ -67,8 +67,9 @@ For hardware functions such as input and output and memory allocation, the opera
 
 # BASH
 
-it provides a prompt are we can type the command which will be interpreted by shell and executed on the operating system
+command language interpreter for interacting with a computer from the command line it suroundes the operating system kernal
 
+it provides a prompt are we can type command which will interpreted by shell and excuted on the opertaing system
 
 
 
