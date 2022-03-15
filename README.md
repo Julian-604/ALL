@@ -1,4 +1,3 @@
-####       Docker      ####
 
 
 # Docker 
@@ -25,7 +24,6 @@ the developer how to create the software can define the environment  with the do
 
 
 
-####   Git   ####
 
 
 # Git 
@@ -38,7 +36,6 @@ for example you working of code base, you take a snap shot or commits of current
 
 
 
-####   API    ####
 
 # API
 
@@ -52,7 +49,7 @@ using an API is just like using a website in your browser but started clicking b
  
  
  
-####  Linux   ####
+# Linxu
 
 # Kernal
 
@@ -76,7 +73,6 @@ it provides a prompt are we can type the command which will be interpreted by sh
 
 
 
-####    Python   ######
 
 
 # Python 
@@ -154,13 +150,12 @@ Dictionary is an unordered collection of key-value pairs encloded with {}
 
 
 
-#### Database ####
 
 # Database
 
 database is nothing but organized collection of data
 
-# SQL# BASH
+# SQL
 
 it provides a prompt are we can type the command which will be interpreted by shell and executed on the operating system
 
