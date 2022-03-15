@@ -12,7 +12,8 @@ The Internet protocol suite, commonly known as TCP/IP, is the set of communicati
 
 
 #### Server
-In computing, a server is a piece of computer hardware or software (computer program) that provides functionality for other programs or devices, called "clients".
+
+A server is device that provices function and service to the end users
 
 #### Client
 
