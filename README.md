@@ -51,12 +51,12 @@ using an API is just like using a website in your browser but started clicking b
  
 # Linux
 
-# Kernal
+#### Kernal
 
 The kernel is a computer program at the core of a computer's operating system and generally has complete control over everything in the system. It is the portion of the operating system code that is always resident in memory, and facilitates interactions between hardware and software components.
 
 
-# OS
+#### OS
 
 An operating system (OS) is system software that manages computer hardware, software resources, and provides common services for computer programs.
 
@@ -65,7 +65,7 @@ Time-sharing operating systems schedule tasks for efficient use of the system an
 For hardware functions such as input and output and memory allocation, the operating system acts as an intermediary between programs and the computer hardware,[1][2] although the application code is usually executed directly by the hardware and frequently makes system calls to an OS function or is interrupted by it. Operating systems are found on many devices that contain a computer – from cellular phones and video game consoles to web servers and supercomputers.
 
 
-# BASH
+#### BASH
 
 command language interpreter for interacting with a computer from the command line it suroundes the operating system kernal
 
@@ -99,56 +99,56 @@ python modules
 A Python module is a file containing Python definitions and statements. A module can define functions, classes, and variables. A module can also include runnable code
 
 
-# For 
+#### For 
 
 A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
 
-# while
+#### while
 
 Python While Loop is used to execute a block of statements repeatedly until a given condition is satisfied. And when the condition becomes false
 
 # OOP
 
-# Polymorphism: 
+#### Polymorphism: 
 
 The word polymorphism means having many forms. In programming, polymorphism means the same function name (but different signatures) being used for different types.
 
-# Abstraction:
+#### Abstraction:
 
 Abstraction is used to hide the internal functionality of the function from the users. The users only interact with the basic implementation of the function, but inner working is hidden
 
-# Inheritance:
+#### Inheritance:
 
 Inheritance is the capability of one class to derive or inherit the properties from another class.
 
-# Encapsulation:
+#### Encapsulation:
 
 Encapsulation is one of the fundamental concepts in object-oriented programming (OOP). It describes the idea of wrapping data and the methods that work on data within one unit.
 
 
-# Interpreter
+#### Interpreter
 
 An interpreter is a kind of program that executes other programs. When you write Python programs , it converts source code written by the developer into intermediate language which is again translated into the native language / machine language that is executed.
 
 
-# Class
+#### Class
 
 In object-oriented programming, a class is an extensible program-code-template for creating objects, providing initial values for state (member variables) and implementations of behavior
 
 
-# Tuple
+####### Tuple
 
 Tuple is an ordered collection of elements enclosed within () 
 
-# List
+#### List
 
 List is an ordered collection of elements enclosed within []
 
-# Dictionary
+####### Dictionary
 
 Dictionary is an unordered collection of key-value pairs encloded with {}
 
-# strings
+#### strings
 
 Strings are sequence of characters enclosed within single quotes(''), duotes to tri
 
@@ -160,20 +160,20 @@ Strings are sequence of characters enclosed within single quotes(''), duotes to 
 
 database is nothing but organized collection of data
 
-# SQL
+#### SQL
 
 it provides a prompt are we can type the command which will be interpreted by shell and executed on the operating system
 
 SQL is a database computer language designed for the retrieval and management of data in a relational database. SQL stands for Structured Query Language.
 
 
-# foregin key
+#### foregin key
 
 A foreign key is a set of attributes in a table that refers to the primary key of another table. The foreign key links these two tables.
 
 
 
-# Primary key
+#### Primary key
 
 In the relational model of databases, a primary key is a specific choice of a minimal set of attributes (columns) that uniquely specify a tuple (row) in a relation (table).[a][1] Informally, a primary key is "which attributes identify a record," and in simple cases constitute a single attribute: a unique ID
 
@@ -207,23 +207,23 @@ cryptography is technic such as encryption and decryption
 
 it is the study of techniques for secure communication between sender and receiver
 
-# Encryption
+#### Encryption
 
 encryption is a process of converting normal text into cyper text
 
 #### Types of Encryption 
 
-Symmetric encryption
+#### Symmetric encryption
 
 it is a type of encryption that uses the some secret ket for encryption as well as decryption
 
-Asymmetric encryption
+#### Asymmetric encryption
 
 it is a type of encryption in which public key is used for encryption and private key is used for decryption
 
 plain text -> Cipher text -> plain text
-		public key       private key
-		encryption		 decryption
+.	public key       private key
+.	encryption       decryption
 
 Encryption Algorithms and protocols
 
@@ -245,14 +245,14 @@ parameters are the variable inputs that used in funtion definations
 
 
 
-# Brute force attack
+#### Brute force attack
 
 it is a trial and error procedure used by hackers to crack passwords and encryption keys to gain unauthorized access
 
 
 
 
-# Types of Cyber Security
+#### Types of Cyber Security
 
 Network Security
 information Security
@@ -261,17 +261,17 @@ Cloud Security
 Internet of ThingS Security
 Mobile Security
 
-# What is a Network
+#### What is a Network
 
 
 A network is a connection between two or more devices such aa computres, webcams, laptops, printers, etc. to share data and files via an internet connection
 
 
-# What is Network Security
+#### What is Network Security
 
 Network Security is the process of taking precautionary measures to protect the devices from unauthotized access modification, or destruction
 
-Types fo Network Security attacks
+#### Types fo Network Security attacks
 
 Data threat
 insider threat
@@ -279,7 +279,7 @@ malware attack
 password attack
 social engineering attack
 
-# Network Vulnerabilities
+#### Network Vulnerabilities
 
 Improperly installed hardware/software
 Operating Systems that have not been updated
@@ -290,7 +290,7 @@ outdated or unpatched software application
 check your firewall configuration
 mobile device vulnerabilities
 
-# Tools used to ensure Network Security
+#### Tools used to ensure Network Security
 
 Packet Crafters
 web Scanners
@@ -298,7 +298,7 @@ Packer Sniffers
 Intrusion Detection System
 penetration testing Software
 
-# Network Security Protocols
+#### Network Security Protocols
 
 TLS/SSL
 IPsec
