@@ -148,6 +148,10 @@ List is an ordered collection of elements enclosed within []
 
 Dictionary is an unordered collection of key-value pairs encloded with {}
 
+# strings
+
+Strings are sequence of characters enclosed within single quotes(''), duotes to tri
+
 
 
 
@@ -189,6 +193,9 @@ Cascading Style Sheets (CSS) is a style sheet language used for describing the p
 
 Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
+platform to run JavaScript on the server i.e outside the browser
+
+
 
 
 
@@ -198,13 +205,103 @@ Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 cryptography is technic such as encryption and decryption
 
+it is the study of techniques for secure communication between sender and receiver
 
 # Encryption
 
 encryption is a process of converting normal text into cyper text
+
+#### Types of Encryption 
+
+Symmetric encryption
+
+it is a type of encryption that uses the some secret ket for encryption as well as decryption
+
+Asymmetric encryption
+
+it is a type of encryption in which public key is used for encryption and private key is used for decryption
+
+plain text -> Cipher text -> plain text
+		public key       private key
+		encryption		 decryption
+
+Encryption Algorithms and protocols
+
+### Encryption Protocols
+
+TLS/SSL
+IPsec
+SSH
+PGP
+
 
 
 
 # Parameters
 
 parameters are the variable inputs that used in funtion definations
+
+
+
+
+
+# Brute force attack
+
+it is a trial and error procedure used by hackers to crack passwords and encryption keys to gain unauthorized access
+
+
+
+
+# Types of Cyber Security
+
+Network Security
+information Security
+Application Security
+Cloud Security
+Internet of ThingS Security
+Mobile Security
+
+# What is a Network
+
+
+A network is a connection between two or more devices such aa computres, webcams, laptops, printers, etc. to share data and files via an internet connection
+
+
+# What is Network Security
+
+Network Security is the process of taking precautionary measures to protect the devices from unauthotized access modification, or destruction
+
+Types fo Network Security attacks
+
+Data threat
+insider threat
+malware attack
+password attack
+social engineering attack
+
+# Network Vulnerabilities
+
+Improperly installed hardware/software
+Operating Systems that have not been updated
+Complete  lack of physical security
+insecure passworks/week passwords
+Design flaws in a network
+outdated or unpatched software application
+check your firewall configuration
+mobile device vulnerabilities
+
+# Tools used to ensure Network Security
+
+Packet Crafters
+web Scanners
+Packer Sniffers
+Intrusion Detection System
+penetration testing Software
+
+# Network Security Protocols
+
+TLS/SSL
+IPsec
+SSH
+PGP
+HTTPS
