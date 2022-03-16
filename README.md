@@ -10,12 +10,15 @@ OSI Model consists of
 
 #### Application 
 
+Functions of Layer 7 include:
+
+
 This layer is closest to the end user
-Interacts with software applications, for example web browser(Brave, Firefox, Chrome, etc)
+Interacts with software applications, 
+for instance web browser(Brave, Firefox, Chrome, etc)
 HTTP and HTTPS are layer 7 protocols
 https://www.silkroad.com
 
-Functions of Layer 7 include:
 
 identifying communication partners
 Synchronizing communication
@@ -25,7 +28,7 @@ Synchronizing communication
 Data in the application layer is in application format
 it needs to be translated to a different format to be sent over the network
 
-the presentation layer's jon is to translate between application and network formats
+the presentation layer's json is to translate between application and network formats
 
 for instance encryption of data as it is sent, and decryption of data as it is received
 
@@ -67,6 +70,7 @@ Users Layer 2 addressing Separate form Layer 3 addressing
 
 #### Physical
 
+the physical layer or layer 1 is the first and lowest layer; The layer most closely associated with the physical connection between devices. This layer may be implemented by a PHY chip.
 
 #### TCP/IP Suite
 
