@@ -14,7 +14,7 @@ Functions of Layer 7 include:
 
 
 This layer is closest to the end user
-Interacts with software applications, 
+Interacts with software applications,<br> 
 for instance web browser(Brave, Firefox, Chrome, etc)
 HTTP and HTTPS are layer 7 protocols
 https://www.silkroad.com
