@@ -441,3 +441,8 @@ IPsec
 SSH
 PGP
 HTTPS
+
+
+# NAT
+
+There are various reasons to use NAT, but the most common reason is to allow hosts with private ip addresses to communicate with other hosts over the internet
